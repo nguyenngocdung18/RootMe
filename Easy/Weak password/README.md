@@ -4,6 +4,5 @@ Vì tên lab là mật khẩu yếu nên tôi thử với vài case cơ bản nh
 
 ![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/094d5e13-2817-4a8b-bc61-4832d555df15)
 
-Hoặc không thì có thể dùng wfuzz để brute force login form
+Hoặc không thì có thể dùng các tool như hydra, wfuzz hay burp suite để brute force login form
 
-```wfuzz -c -w /usr/share/seclists/Passwords/Common-Credentials/top-20-common-SSH-passwords.txt --basic admin:FUZZ http://challenge01.root-me.org/web-serveur/ch3/```
