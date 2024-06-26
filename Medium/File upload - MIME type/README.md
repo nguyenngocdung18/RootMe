@@ -16,6 +16,8 @@ Click vào ta có thể thấy được đường dẫn tới nơi lưu tệp
 
 Nếu không copy được thì có thể vô Inspect
 
+ còn không thì cần vào cái file còn lại nó sẽ dẫn thẳng tới "exploit3.php" =)))))
+ 
 ![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/fdac864e-7f57-4589-be26-0c904fca9d4a)
 
 => a7n4nizpgQgnPERy89uanf6T4
