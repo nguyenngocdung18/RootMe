@@ -8,8 +8,6 @@ Khi thử lỗi path traversal thì nhận được cảnh báo. Có vẻ như n
 
 ![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/2fef656e-f218-4e8e-bc7b-44469fa40e73)
 
-có vẻ như đoạn code của nó sẽ như vậy
-
 Sử dụng payload ```' and die(system("id")) or '```
 
 ![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/04260596-2fdb-4111-8265-0563922b69a5)
