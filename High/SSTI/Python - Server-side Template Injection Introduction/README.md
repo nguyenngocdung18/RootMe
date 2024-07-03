@@ -1,3 +1,5 @@
+Link refer: https://podalirius.net/en/publications/grehack-2021-optimizing-ssti-payloads-for-jinja2/#server-side-template-injections
+
 ![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/7c09a5eb-df93-42f6-9b87-065a872b4e41)
 
 Trong các input thì phần content có thể inject được
