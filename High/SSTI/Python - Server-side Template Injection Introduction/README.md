@@ -7,7 +7,7 @@ Trong các input thì phần content có thể inject được
 ![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/a8473bd9-2fae-4f8e-b9c0-3d21150675fd)
 
 Sử dụng payload ```{{self._TemplateReference__context.cycler.__init__.__globals__.os}}```
-=> import library os
+=> access to library os
 
 ![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/12b4b361-0e35-42dd-b436-3003a003e8db)
 
