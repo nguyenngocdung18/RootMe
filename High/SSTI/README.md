@@ -2,3 +2,7 @@
 
 
 ![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/84f2c3a1-a303-4b05-b481-8feaf616978f)
+
+![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/cd889584-acf2-4800-8827-b0c8bdffacfa)
+
+tool : tplmap
