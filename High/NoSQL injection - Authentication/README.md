@@ -13,3 +13,4 @@ Thử 1 payload trên Hacktricks
 => flag{nosqli_no_secret_4_you}
 
 :) nhưng mà nhập mãi cứ báo sai cayyyyyyyyyy. hóa ra đáp án chỉ là ```nosqli_no_secret_4_you``` thôi -.-"
+=)))) mất không cả tiếng đồng hồ đi ngồi mò xem còn cái gì khác không
