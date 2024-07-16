@@ -10,4 +10,5 @@ List labs có script auto get flag :V
 + HTTP - IP restriction bypass 
 + HTTP - User-agent
 ## MEDIUM
++ HTTP - POST
 + 
