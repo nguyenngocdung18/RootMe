@@ -11,4 +11,5 @@ List labs có script auto get flag :V
 + HTTP - User-agent
 ## MEDIUM
 + HTTP - POST
++ HTTP - Headers
 + 
