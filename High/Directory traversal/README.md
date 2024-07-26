@@ -2,7 +2,7 @@
 
 Khi ấn vào các tính năng trên web thì nó sẽ hiện URL ví dụ là ```?galerie=apps```
 
-![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/0cbc9fb4-cea2-49aa-a399-30b27ea2a390)
+![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/8bae1ef3-3cf5-45eb-b443-6d3fa33cfa2a)
 
 Tiến hành fuzz với dirb
 
@@ -10,7 +10,7 @@ Tiến hành fuzz với dirb
 
 => tìm thấy thư mục 86hwnX2r
 
-![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/8bae1ef3-3cf5-45eb-b443-6d3fa33cfa2a)
+![image](https://github.com/nguyenngocdung18/RootMe/assets/134156226/0cbc9fb4-cea2-49aa-a399-30b27ea2a390)
 
 View page source
 
